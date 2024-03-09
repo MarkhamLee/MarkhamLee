@@ -17,6 +17,7 @@
 
 
 ### Hi there 👋
+I'm a data and machine learning engineer, with interests including Computer Vision, Custom PC Mods, Embedded & IoT devices, Kubernetes, Predictive Analytics and the data ingestion infrastructure(s) to support it. My repos are a mixture of things I'm building for professional development/to exhibit my skills and other projects that support my hobbies and/or projects around my home. 
 
 <!--
 **MarkhamLee/MarkhamLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
