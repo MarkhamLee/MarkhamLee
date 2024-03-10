@@ -17,7 +17,7 @@
 
 
 ### Hi there 👋
-I'm a data and machine learning engineer, with interests including Computer Vision, Custom PC Mods, Embedded & IoT devices, Kubernetes and Predictive Analytics. My repos are a mixture of things I'm building for professional development/to exhibit my skills and other projects that support my hobbies and/or projects around my home. Python and R are my primary languages, and I have experience building server-side Node.js microservices with JavaScript & TypeScript. Most things in my repo are built to be deployed as Docker containers that I run on my mixed architecture (amd64/x86 and arm64) Kubernetes cluster; and I also really enjoy tinkering/building DIY tech around my house using Raspberry Pis (and similar devices) and microcontrollers like the ESP32 and Raspberry Pi Pico. 
+I'm a data and machine learning engineer, with interests including Computer Vision, Custom PC Mods, Embedded & IoT devices, Kubernetes and Predictive Analytics. My repos are a mixture of things I'm building for professional development/to exhibit my skills and other projects that support my hobbies and/or projects around my home. While Python and R are my primary languages, and I also have experience building Node.js microservices with JavaScript & TypeScript. Most things in my repo are built to be deployed as Docker containers that I run on my mixed architecture (amd64/x86 and arm64) Kubernetes cluster; and I also really enjoy tinkering/building DIY tech around my house using Raspberry Pis (and similar devices) and microcontrollers like the ESP32 and Raspberry Pi Pico. 
 
 
 <!--
