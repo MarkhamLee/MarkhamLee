@@ -3,7 +3,7 @@ I'm a data and machine learning engineer, whose professional areas of focus/inte
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=markhamlee)](https://github.com/LordDashMe/github-contribution-stats/)
 
-- 📫 Feel free to reach out to/follow me on LinkedIn, I'm interesed in discussing collaboration, full time, contract and freelance opportunities. 
+- 📫 Feel free to reach out to/follow me on LinkedIn, I'm interested in discussing full time, contract, freelance and collaboration opportunities. 
 <a href="https://www.linkedin.com/in/markhamlee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 - 👯 I’m looking to collaborate on: data or machine learning related open source projects, hardware projects based on microcontrollers like the ESP32 or Raspberry Pi Pico or single board computers like the Raspberry Pi. 
