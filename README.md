@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a data and machine learning engineer, whose professional areas of focus/interest areas include predictive analytics, computer vision for industrial applications and security, Kubernetes, embedded devices and IoT. My personal/hobbyist/maker interest include agritech, climate sensors, custom pc mods and home automation. My repos are a mixture of things I'm building for professional development/to exhibit my skills and projects related to my personal interests. At the moment most of the things I'm building are either dockerized micro-services that I deploy/run on my mixed architecture (amd64/x86 and arm64) Kubernetes cluster/homelab, and/or are destined for home-brewed/DIY IoT devices built around either a single board computer like the Raspberry Pi or a microcontroller like the ESP32. While my primary languages are Python and R, I also have experience building micro-services with Node.js and have a more than passing familiarity with C++ and Java.
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=markhamlee)](https://github.com/LordDashMe/github-contribution-stats/)
+
 
 - 📫 Feel free to reach out to/follow me on LinkedIn, I'm interested in discussing full time, contract, freelance and collaboration opportunities. 
 <a href="https://www.linkedin.com/in/markhamlee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
