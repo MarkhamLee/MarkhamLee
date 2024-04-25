@@ -1,12 +1,10 @@
 ### Hi there 👋
 I am a data and machine learning engineer, whose professional areas of focus/interest areas include predictive analytics, computer vision for industrial applications and security, Kubernetes, embedded devices and IoT. My personal/hobbyist/maker interests include AgriTech, climate sensors, custom pc mods and home automation. My repos are a mixture of things I am building for professional development/to exhibit my skills and projects related to my personal interests. Most of the things I am currently building are either dockerized micro-services targeted for deployment on a mixed (amd64/x86 and arm64) Kubernetes cluster, and/or are destined for home-brewed/DIY IoT devices built around either a single board computer like the Raspberry Pi or a microcontroller like the ESP32. While my primary languages are Python and R, I also have experience building micro-services with Node.js and have a more than passing familiarity with C++ and Java. 
 
-
-
 - 📫 Feel free to reach out to/follow me on LinkedIn, I'm interested in discussing full time, contract, freelance and collaboration opportunities. 
 <a href="https://www.linkedin.com/in/markhamlee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-- 👯 I’m looking to collaborate on: data or machine learning related open source projects, hardware projects based on microcontrollers like the ESP32 or Raspberry Pi Pico or single board computers like the Raspberry Pi. 
+- 👯 I’m looking to collaborate on: data or machine learning related open-source projects, and hardware projects using Raspberry Pi single board computers (or similar) and microcontrollers like the ESP32 and Raspberry Pi Pico. 
 
 <!--
 **MarkhamLee/MarkhamLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
