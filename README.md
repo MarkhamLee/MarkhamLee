@@ -1,10 +1,15 @@
 ### Hi there 👋
-I am a data and machine learning engineer, whose professional areas of focus/interest areas include Vision AI/Computer Vision, machine learning, predictive analytics, Kubernetes, embedded devices and IoT. My personal/hobbyist/maker interests include AgriTech, climate sensors, custom pc mods and home automation. My repos are a mixture of things I am building for professional development/to exhibit my skills and projects related to my personal interests. I tend to build things as "platform agnostic" Dockerized micro-services that can be deployed at the edge (x86 or ARM64), in the cloud, using serverless platforms like AWS Fargate or with orchestration tools like Kubernetes without any changes to the code base. I've also built some "home brewed" IoT devices using microcontrollers like the ESP32 or Raspberry Pi Pico. My primary languages for vision AI, machine learning and data engineering are Python and TypeScript, I'm very comfortable in R and SQL for data analysis, and I'm "functional" in C++ for microcontroller based IoT sensors/simple embedded devices.
+I’m a data and machine learning engineer specializing in computer vision, data infrastructure, and MLOps. I build and deploy platform‑agnostic AI, computer vision, and data‑driven microservices for cloud, edge, and on‑premises environments. My work centers on Docker‑based, event‑driven pipelines using AWS ECS, Fargate, SNS, and SQS for data ingestion, model training, and inferencing.
 
-- 📫 Feel free to reach out to/follow me on LinkedIn, I'm interested in discussing full time, contract, freelance and collaboration opportunities. 
+My machine learning experience includes turning R&D concepts into scalable, production‑ready systems and training and fine‑tuning computer vision and multimodal models. Current projects revolve around image quality enhancement, automated data pipelines, and integrating detection, pose, and vision‑language models to improve accuracy and robustness
+
+My core languages are Python and TypeScript, with R and SQL for analysis, and C/C++ for embedded and sensor‑driven systems.
+
+- 👯 Open to collaborating on open‑source data, machine learning, and embedded projects.
+
+- 📫 Connect on LinkedIn to discuss full‑time, contract, or research collaborations.
 <a href="https://www.linkedin.com/in/markhamlee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-- 👯 I’m looking to collaborate on: data or machine learning related open-source projects, and hardware projects using Raspberry Pi single board computers (or similar) and microcontrollers like the ESP32 and Raspberry Pi Pico. 
 
 <!--
 **MarkhamLee/MarkhamLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
